@@ -32,6 +32,10 @@ yarn
 yarn start
 ```
 O projeto abrira em uma nova guia do navegador no endereço: [localhost:3000](http://localhost:3000)
+## Referência
+
+ - [Mockup Figma](https://www.figma.com/proto/uTbjM7KFU5lCwnikX2M8Xs/Calendar-UI?node-id=1%3A2&scaling=scale-down&page-id=0%3A1)
+
 ## Autor
 
 - [@sejidjorge](https://github.com/sejidjorge/)
